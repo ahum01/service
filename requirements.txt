@@ -1,2 +1,4 @@
 uvicorn
 fastapi[all]
+pandas
+QuantLib
